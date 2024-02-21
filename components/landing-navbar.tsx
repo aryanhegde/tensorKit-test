@@ -32,6 +32,8 @@ const LandingNavbar = () => {
             className="rounded-full hover:bg-blue-500 hover:outline-none hover:text-white"
           >
             Get Started
+          
+            
           </Button>
         </Link>
       </div>
